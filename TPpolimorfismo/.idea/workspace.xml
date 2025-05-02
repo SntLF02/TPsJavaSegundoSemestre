@@ -1,54 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b6aaab6-bf12-4996-917e-fb7da8dae55d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sobrecarga/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sobrecarga/Sobrecarga1.java" afterDir="false" />
+    <list default="true" id="833577ae-c73a-4f46-9bf8-4e20585d883e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cohecion/EJCohersion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cohecion/Resta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependencia/Combustible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dependencia/Combustible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependencia/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dependencia/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependencia/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dependencia/Vehiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HerenciaDownCastring/EJHerenciaDownCasting2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HerenciaDownCastring/Sobrino.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HerenciaDownCastring/Tio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HerenciaUpCasting/EJHerenciaUpCasting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HerenciaUpCasting/Hijo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HerenciaUpCasting/Padre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parametrico/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parametrico/EJParametrico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpCasting/EJUpCasting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpCasting/Enredadera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpCasting/Flor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpCasting/Planta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpCasting/Vivero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TPpolimorfismo/Herencia1/Alumno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TPpolimorfismo/Herencia1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TPpolimorfismo/Herencia1/Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TPpolimorfismo/Herencia1/Profesor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TPpolimorfismo/Sobrecarga/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TPpolimorfismo/Sobrecarga/Sobrecarga1.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
-  <component name="ProjectId" id="2wRqEThAw95JFHAORrlUihkIXEJ" />
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SntLF02&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SntLF02/TPsJavaSegundoSemestre.git&quot;,
+    &quot;accountId&quot;: &quot;c5ea2c4c-6d1d-4b20-ab47-ab356cf40d95&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2wW7qXiBglsgmZldHCFnyIERT72" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5b6aaab6-bf12-4996-917e-fb7da8dae55d" name="Changes" comment="" />
-      <created>1746014623000</created>
+      <changelist id="833577ae-c73a-4f46-9bf8-4e20585d883e" name="Changes" comment="" />
+      <created>1746145670023</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1746014623000</updated>
+      <updated>1746145670023</updated>
     </task>
     <servers />
   </component>
